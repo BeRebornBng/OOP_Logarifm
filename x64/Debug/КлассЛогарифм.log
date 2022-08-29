@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(8): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(8,6): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(14,28): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(15,28): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(18,28): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(19,28): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(21,29): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(22,29): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(23,28): warning C4114: Множественное использование одного и того же квалификатора типа.
+C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\header.h(24,28): warning C4114: Множественное использование одного и того же квалификатора типа.
+  КлассЛогарифм.vcxproj -> C:\Users\Bakit\source\repos\C++Middle projects\КлассЛогарифм\x64\Debug\КлассЛогарифм.exe
